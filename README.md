@@ -38,7 +38,7 @@ app.use( '/health', router );
 <a name="status-get"></a>
 #### GET /status
 
-URI endpoint for getting a server application\'s status.
+URI endpoint for getting a server application's status.
 
 
 ##### Response: 200 (text/plain)
