@@ -1,6 +1,6 @@
 {
   "name": "express-router-status",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Express router which provides a status endpoint.",
   "author": {
     "name": "Athan Reines",
