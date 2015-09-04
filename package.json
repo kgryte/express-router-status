@@ -39,7 +39,7 @@
     "rest"
   ],
   "bugs": {
-    "url": "https://github.com/kgyte/express-router-status/issues"
+    "url": "https://github.com/kgryte/express-router-status/issues"
   },
   "dependencies": {
     "express": "^4.13.3"
